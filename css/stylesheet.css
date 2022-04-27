@@ -1,5 +1,4 @@
 
-
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase:500&display=swap');
 
 body {
@@ -7,7 +6,6 @@ body {
     background-size: cover;
     background-position: center;
 }
-
 #content_container {
 	margin-left:auto;
 	margin-right:auto;
@@ -18,21 +16,18 @@ body {
 	background-repeat: no-repeat;
 	background-position: right center;
 }
-
 #logo_container {
 	height:90px;
 	width:900px;
 	margin-left:auto;
 	margin-right:auto;
 }
-
 #main_container {
 	height:90px;
 	width:900px;
 	margin-left:auto;
 	margin-right:auto;
 }
-
 #logo_image {
     width: 115px;
     height: 75px;
@@ -42,7 +37,6 @@ body {
     background-repeat: no-repeat;
     background-image: url(../images/logo.png);
 }
-
 #top_bar_black {
     width: 102%;
     height: 91px;
@@ -50,7 +44,6 @@ body {
     margin-left: -10px;
     background-color: #00000075;
 }
-
 #bottom_bar_black {
     margin-left: -10px;
     width: 102%;
@@ -58,14 +51,12 @@ body {
     height: 122px;
     background-color: rgb(0 0 0 / 60%);
 }
-
 #nav_block {
     width: 250px;
     height: 90px;
     float: left;
     margin-left: -30px;
 }
-
 .nav_button {
     width: 70px;
     color: #FFFFFF;
@@ -77,11 +68,9 @@ body {
     text-align: center;
     float: left;
 }
-
 .nav_button:link {
 	text-decoration:none;
 }
-
 a:any-link {
     color: white;
     font-family: 'Cormorant Unicase';
@@ -89,22 +78,17 @@ a:any-link {
     text-decoration: none;
     text-shadow: 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000 !important;
 }
-
-
-
 .nav_button:hover {
     text-decoration: none;
     background-color: #1d5081c2;
     border-radius: 5px 5px 5px 5px;
 }
-
 #header {
 	width:500px;
 	margin-top:100px;
 	margin-bottom:250px;
 	float: left;
 }
-
 .header_content_mainline {
     font-size: 35px;
     font-family: 'Cormorant Unicase';
@@ -112,7 +96,6 @@ a:any-link {
     width: 500px;
     text-shadow: 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000 !important;
 }
-
 #header_content_boxline {
     font-size: 35px;
     color: #ffffff;
@@ -120,14 +103,12 @@ a:any-link {
     text-shadow: 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000 !important;
     font-style: italic;
 }
-
 #header_content_lowerline {
 	font-size:35px;
 	color:#FFFFFF;
 	width:400px;
 	font-style: italic;
 }
-
 #header_content_boxcontent {
     font-size: 16px;
     color: #ffffff;
@@ -135,13 +116,11 @@ a:any-link {
     font-family: Cormorant Unicase;
     text-shadow: 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000, 0 0 0.2rem #000000 !important;
 }
-
 #header_content_lowerboxcontent {
 	font-size:12px;
 	color:#CCCCCC;
 	width:400px;
 }
-
 #header_content_tagline {
     font-size: 15px;
     color: #ffffff;
